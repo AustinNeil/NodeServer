@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "testserver",
+=======
+  "name": "server",
+>>>>>>> 6392b0d62cdd7456afdccef7c3953637a13084f8
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,6 +11,22 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+<<<<<<< HEAD
   "author": "",
   "license": "ISC"
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinNeil/NodeServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinNeil/NodeServer/issues"
+  },
+  "homepage": "https://github.com/AustinNeil/NodeServer#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+>>>>>>> 6392b0d62cdd7456afdccef7c3953637a13084f8
 }
